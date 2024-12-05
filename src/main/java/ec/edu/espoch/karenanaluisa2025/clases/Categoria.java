@@ -1,6 +1,6 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Enum.java to edit this template
  */
 package ec.edu.espoch.karenanaluisa2025.clases;
 
@@ -8,7 +8,8 @@ package ec.edu.espoch.karenanaluisa2025.clases;
  *
  * @author SO-LAB1-PC23
  */
-public class Clientes {
-    String nomClientes="";
-    
+public enum Categoria {
+ BEBIDA;
+ ALIMENTO;
+ POSTRE;
 }

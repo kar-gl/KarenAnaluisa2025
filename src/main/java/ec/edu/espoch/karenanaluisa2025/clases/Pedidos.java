@@ -9,5 +9,8 @@ package ec.edu.espoch.karenanaluisa2025.clases;
  * @author SO-LAB1-PC23
  */
 public class Pedidos {
-    
+ String asociarClientesProd;
+ double calcularPrecioTotalIva;
+ 
+ 
 }
